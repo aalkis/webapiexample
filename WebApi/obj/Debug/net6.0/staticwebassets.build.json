@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "yTr0HVMvtg47M8TSdpHEAK4kfwMTtJOTwffad/wMzeQ=",
+  "Source": "WebApi",
+  "BasePath": "_content/WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebApi\\wwwroot",
+      "Source": "WebApi",
+      "ContentRoot": "C:\\Users\\SSTTEK User\\Desktop\\projects-1-main\\backend\\Projects\\WebApi\\WebApi\\WebApi\\wwwroot\\",
+      "BasePath": "_content/WebApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\SSTTEK User\\Desktop\\projects-1-main\\backend\\Projects\\WebApi\\WebApi\\WebApi\\wwwroot\\9bd3c021-beec-4dd6-8ef6-d15b6b5e4841..png",
+      "SourceId": "WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\SSTTEK User\\Desktop\\projects-1-main\\backend\\Projects\\WebApi\\WebApi\\WebApi\\wwwroot\\",
+      "BasePath": "_content/WebApi",
+      "RelativePath": "9bd3c021-beec-4dd6-8ef6-d15b6b5e4841..png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\9bd3c021-beec-4dd6-8ef6-d15b6b5e4841..png"
+    }
+  ]
+}
