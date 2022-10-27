@@ -1,0 +1,32 @@
+﻿@model List<ConsumeApi.ResponseModels.ProductResponseModel>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Web Api Consume</title>
+</head>
+<body>
+    <p>MVC Works</p>
+    <table>
+        <tr>
+            <th>Ürünün adı</th>
+            <th>Ürünün fiyatı</th>
+            <th>Ürünün stoğu</th>
+        </tr>
+        @{
+            @if (Model != null)
+            {
+                @foreach (var product in Model)
+                {
+                    <tr>
+                        <td>@product.Name</td>
+                        <td>@product.Price</td>
+                        <td>@product.Stock</td>
+                    </tr>
+                }            
+            }
+        }
+    </table>
+</body>
+</html>

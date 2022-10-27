@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KnccLyebY6rkLfhAjhXYkZCLMjVD0t9RNOhcF14BU5FwQxu9FcDTvQn3W3ELPkpYg4hI7g4u/c6swWukv9wE2g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SSTTEK User\\Desktop\\projects-1-main\\backend\\Projects\\WebApi\\WebApi\\ConsumeApi\\ConsumeApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SSTTEK User\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
